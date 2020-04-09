@@ -1,0 +1,2 @@
+rootProject.name='moneymanager'
+include ':app'
